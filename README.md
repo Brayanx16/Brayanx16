@@ -14,11 +14,13 @@
     "
   >
     <img
+      align="center"
       width="47%"
       src="https://github-readme-stats.vercel.app/api?username=brayanx16&show_icons=true&theme=dark"
     />
     <img
-      height="166px"
+      align="center"
+      height="166rem"
       width="47%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanx16&show_icons=true&layout=compact&hide_progress=true"
     />
