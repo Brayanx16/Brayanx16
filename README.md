@@ -18,6 +18,7 @@
       src="https://github-readme-stats.vercel.app/api?username=brayanx16&show_icons=true&theme=dark"
     />
     <img
+      height="166px"
       width="47%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanx16&show_icons=true&layout=compact&hide_progress=true"
     />
